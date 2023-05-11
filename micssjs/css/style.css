@@ -457,3 +457,9 @@
         max-width: 60% !important;
     }
 }
+
+@media (min-width:768px){
+    .max-width-60{
+        max-width: 50% !important;
+    }
+}
